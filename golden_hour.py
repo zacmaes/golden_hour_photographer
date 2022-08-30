@@ -24,4 +24,6 @@
 #
 #
 #
-#
+# ERRORS/BUGS
+#       git@github.com: Permission denied (publickey).
+#       Git fatal: could not read from remote repository
