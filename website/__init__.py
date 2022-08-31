@@ -1,3 +1,11 @@
+# notes:
+# when you put this __init__.py file inside of a folder, it makes it a package...
+#   therefore: the website folder is a python package and can be imported in main.py
+#       like this [inside main.py]:
+#           ...
+#           from website import create_app
+#           ...
+
 from flask import Flask
 
 
